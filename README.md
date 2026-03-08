@@ -1,37 +1,41 @@
-# CodeAlpha Data Science Internship Projects
+# Iris Flower Classification - CodeAlpha Internship
 
-This repository contains the projects I completed during my CodeAlpha Data Science Internship.
+This project is part of my **CodeAlpha Data Science Internship**.
 
-## Project 1: Iris Flower Classification
+## Project Overview
+The goal of this project is to build a machine learning model that can classify iris flowers into different species based on their measurements.
 
-### Overview
-The Iris Flower Classification project is a machine learning model that predicts the species of an iris flower based on its measurements.
+The model predicts the flower species using the following features:
 
-### Dataset
-The dataset contains the following features:
 - Sepal Length
 - Sepal Width
 - Petal Length
 - Petal Width
 
-The model classifies flowers into three species:
+The model classifies flowers into three categories:
+
 - Iris-setosa
 - Iris-versicolor
 - Iris-virginica
 
-### Technologies Used
+## Technologies Used
 - Python
 - Google Colab
 - Pandas
+- NumPy
 - Scikit-learn
 - Matplotlib / Seaborn
 
-### Workflow
-1. Data loading and exploration
-2. Data preprocessing
-3. Model training
-4. Model evaluation
-5. Prediction of iris species
+## Project Workflow
+1. Importing the dataset
+2. Data exploration and visualization
+3. Data preprocessing
+4. Model training
+5. Model evaluation
+6. Prediction of iris flower species
+
+## Repository Contents
+- Iris_Flower_Classification_CodeAlpha.ipynb – Jupyter Notebook containing the full implementation.
 
 ## Internship
 This project was completed as part of the **CodeAlpha Data Science Internship Program**.
